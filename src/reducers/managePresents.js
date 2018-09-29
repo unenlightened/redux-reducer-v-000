@@ -1,5 +1,6 @@
 export function managePresents(state, action){
   switch (state.type) {
-    default state;
+    default:
+      return state;
   }
 }
